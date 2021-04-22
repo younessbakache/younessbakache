@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Youness from Morocco, and I'm a computer engineering student, Polyvalent and curious about electronics and productivity, always looking for learning new things, have deep intuition to solve tough problems, with vast knowledge in artificial intelligence, data science, prorgramming ...,  use a different engineering’s tools for project
+developing and management. Familiar with Python Java & C language.
 <!--
 **younessbakache/younessbakache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
